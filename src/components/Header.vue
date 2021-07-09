@@ -1,7 +1,7 @@
 <template>
   <header class="flex bg-white items-center justify-between px-4 py-6 shadow">
     <router-link :to="{ name: 'Home' }">
-      <img alt="Tarfin logo" src="https://tarfin.com/img/logo.svg" />
+      <h2>VUE TİCKET APP</h2>
     </router-link>
   </header>
 </template>
